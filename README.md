@@ -1,0 +1,2 @@
+# hm_jsmode_readonlyproperty
+グローバス変数を読み取り専用にするコンポーネント(WebView2用)
