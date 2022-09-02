@@ -9,4 +9,4 @@
 ![WebView2](https://img.shields.io/badge/WebView2-OK-6479ff.svg)
 ![JScript](https://img.shields.io/badge/JScript-NO-ff7964.svg)
 ![execjs](https://img.shields.io/badge/execjs-OK-6479ff.svg)
-
+![require](https://img.shields.io/badge/require-NO-ff7964.svg)
